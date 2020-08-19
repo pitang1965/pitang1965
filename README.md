@@ -8,3 +8,9 @@
 - 📫 [Twitter](https://twitter.com/pitang1965)
 - 😄 ピータンと呼んでください。「さん」は要らないです。
 - ⚡ ピータンというのは、大昔に飼っていたコザクラインコの名前で、酔った勢いにて「ピータン日記」というブログを2006年6月9日に始めて、2011年まではほぼ毎日更新し、2012年3月23日まで続けました。
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/pitang1965/posts.svg)](http://qiita.com/pitang1965)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/pitang1965/contributions.svg)](http://qiita.com/pitang1965)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/pitang1965/followers.svg)](http://qiita.com/pitang1965)
