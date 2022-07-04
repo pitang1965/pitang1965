@@ -1,7 +1,7 @@
 ### Hi there ・こんにちは👋
 
 - 🔭 現在、東京都いなか市の電気機器メーカーにて、医療機器の品質保証の仕事を10年以上やっています。後3年ちょっとで定年です。
-- 🌱 現在はReact関連(Gatsby他)を学習していて、Vite, Next.js, Auth0, Netlify Functions, Styled-comonents などで、ちょっとしたアプリ開発の学習中です。
+- 🌱 現在はReact, TypeScriptを中心に、Vite, Next.js, SupabaseAuth0, Netlify Functions, Styled-components, Tailwind CSS などで、ちょっとしたアプリ開発の学習中です。
 - 👯 特に40代以上の人とWeb開発について色々と交流して知識を増やしたいです。Slackコミュニティ[Over 40 Web Club](https://over40web.club/)を2020-09-28から始めました。よろしければご参加ください。
 - 🤔 一緒にWebアプリを作ったり、又は励まし合ったりしたいです。
 - 💬 お気軽に絡んでください。
