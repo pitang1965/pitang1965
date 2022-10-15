@@ -6,7 +6,7 @@
 - 🤔 一緒にWebアプリを作ったり、又は励まし合ったりしたいです。
 - 💬 お気軽に絡んでください。
 - :evergreen_tree:[Linktree](https://linktr.ee/pitang1965)
-- 📫 [Twitter](https://twitter.com/pitang1965)
+- 📫 [Twitter: ピータン](https://twitter.com/pitang1965), [Twitter: シジュウから君](https://twitter.com/shijukarakun)
 - 😄 ピータンと呼んでください。「さん」は要らないです。
 - ⚡ ピータンというのは、大昔に飼っていたコザクラインコの名前で、酔った勢いにて「ピータン日記」というブログを2006年6月9日に始めて、2011年まではほぼ毎日更新し、2012年3月23日まで続けました。
 
