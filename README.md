@@ -8,6 +8,6 @@
 - :evergreen_tree:[Linktree](https://linktr.ee/pitang1965)
 - 📫 [Twitter: ピータン](https://twitter.com/pitang1965), [Twitter: シジュウから君](https://twitter.com/shijukarakun)
 - 😄 ピータンと呼んでください。「さん」は要らないです。
-- ⚡ ピータンというのは、大昔に飼っていたコザクラインコの名前で、酔った勢いにて「ピータン日記」というブログを2006年6月9日に始めて、2011年まではほぼ毎日更新し、2012年3月23日まで続けました。
+- ⚡ ピータンというのは、大昔に飼っていたコザクラインコの名前で、2006年6月9日から2012年3月23日までほぼ毎日更新していた雑記ブログ「ピータン日記」をやっていたことから、ピータンと呼ばれるようになりました。
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/pitang1965/posts.svg)](http://qiita.com/pitang1965) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/pitang1965/contributions.svg)](http://qiita.com/pitang1965) [![My Qiita followers](https://qiita-badge.apiapi.app/s/pitang1965/followers.svg)](http://qiita.com/pitang1965)
