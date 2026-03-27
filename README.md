@@ -1,6 +1,6 @@
 ### Hi there ・こんにちは👋
 
-- 🔭 東京都いなか市の男性。約4年間の独学の後、2023年1月より業務委託中心のWeb開発企業に転職。現在は主に、flutterとExpo(React Native)でモバイルアプリの開発をしています（60歳からは契約社員）。
+- 🔭 東京都いなか市の男性。約4年間の独学の後、2023年1月より業務委託中心のWeb開発企業に転職。現在は主に、FlutterとExpo(React Native)でモバイルアプリの開発をしています（60歳からは契約社員）。
 - 🌱 独学ではReact, TypeScriptを中心に、Vite, Next.js, Supabase, Auth0, Netlify Functions, Styled-components, Tailwind CSS, Mantine などを学習してきました。
 - 👯 40代以上の人とWeb開発について交流するオンラインコミュニティ[Over 40 Web Club](https://over40web.club/)を2020-09-28から2025-12-31まで運営していました。
 - 🤔 現在は、生成AIを活用して、[車旅のしおり](https://tabi.over40web.club/)という個人開発アプリの車中泊データを妻と共に充実させているところです。
