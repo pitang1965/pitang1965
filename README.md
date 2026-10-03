@@ -4,7 +4,7 @@
 - 🌱 独学ではReact, TypeScriptを中心に、Vite, Next.js, Supabase, Auth0, Netlify Functions, Styled-components, Tailwind CSS, Mantine などを学習してきました。
 - 👯 40代以上の人とWeb開発について交流するオンラインコミュニティ[Over 40 Web Club](https://over40web.club/)を2020-09-28から2025-12-31まで運営していました。
 - 🤔 生成AIを活用して、個人開発を楽しんでいます。最近は、Next.jsに加えて、TanStack Startを好んでいます。とはいえ、実装は100% Claude Codeです。詳細は以下のなふだ（これも自分が開発）をご覧ください。
-- :name_badge:[なふだ](https://nafuda.me/u/7geoo8hkiy/p/15cabb84d631e14de85c4fbc1371cc8b)
+- :name_badge:[なふだ](https://s.nafuda.me/NzHZtp](https://s.nafuda.me/NzHZtp)
 - 📫 [Twitter: ピータン](https://twitter.com/pitang1965), [Twitter: シジュウから君](https://twitter.com/shijukarakun)
 - 😄 ピータンと呼んでください。「さん」は要らないです。
 - ⚡ ピータンというのは、大昔に飼っていたコザクラインコの名前で、2006年6月9日から2012年3月23日までほぼ毎日更新していた雑記ブログ「ピータン日記」をやっていたことから、ピータンと呼ばれるようになりました。
